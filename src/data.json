@@ -1,0 +1,186 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "imageSrc": "/assets/blog1.jpg",
+        "date": "April 25, 2021",
+        "author": "Rizasgor",
+        "category": "Design",
+        "content": "Brooklyn Beta was the most important conferen best tristique",
+        "overview": "Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae. Curabitur lobortis justo ante, in varius leo congue id. Etiam a libero elementum, posuere est at, sodales justo. Proin nec venenatis metus. Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae."
+      },
+      {
+        "id": 2,
+        "imageSrc": "/assets/blog2.jpg",
+        "date": "April 25, 2021",
+        "author": "Rizasgor",
+        "category": "Design",
+        "content": "Brooklyn Beta was the most important conferen best tristique",
+        "overview": "Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae. Curabitur lobortis justo ante, in varius leo congue id. Etiam a libero elementum, posuere est at, sodales justo. Proin nec venenatis metus. Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae."
+      },
+      {
+        "id": 3,
+        "imageSrc": "/assets/blog3.jpg",
+        "date": "April 25, 2021",
+        "author": "Rizasgor",
+        "category": "Design",
+        "content": "Brooklyn Beta was the most important conferen best tristique",
+        "overview": "Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae. Curabitur lobortis justo ante, in varius leo congue id. Etiam a libero elementum, posuere est at, sodales justo. Proin nec venenatis metus. Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae."
+      },
+      {
+        "id": 4,
+        "imageSrc": "/assets/blog3.jpg",
+        "date": "April 25, 2021",
+        "author": "Rizasgor",
+        "category": "Design",
+        "content": "Brooklyn Beta was the most important conferen best tristique",
+        "overview": "Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae. Curabitur lobortis justo ante, in varius leo congue id. Etiam a libero elementum, posuere est at, sodales justo. Proin nec venenatis metus. Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae."
+      },
+      {
+        "id": 5,
+        "imageSrc": "/assets/blog1.jpg",
+        "date": "April 25, 2021",
+        "author": "Rizasgor",
+        "category": "Design",
+        "content": "Brooklyn Beta was the most important conferen best tristique",
+        "overview": "Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae. Curabitur lobortis justo ante, in varius leo congue id. Etiam a libero elementum, posuere est at, sodales justo. Proin nec venenatis metus. Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae."
+      },
+      {
+        "id": 6,
+        "imageSrc": "/assets/blog2.jpg",
+        "date": "April 25, 2021",
+        "author": "Rizasgor",
+        "category": "Design",
+        "content": "Brooklyn Beta was the most important conferen best tristique",
+        "overview": "Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae. Curabitur lobortis justo ante, in varius leo congue id. Etiam a libero elementum, posuere est at, sodales justo. Proin nec venenatis metus. Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae."
+      },
+      {
+        "id": 7,
+        "imageSrc": "/assets/blog2.jpg",
+        "date": "April 25, 2021",
+        "author": "Rizasgor",
+        "category": "Design",
+        "content": "Brooklyn Beta was the most important conferen best tristique",
+        "overview": "Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae. Curabitur lobortis justo ante, in varius leo congue id. Etiam a libero elementum, posuere est at, sodales justo. Proin nec venenatis metus. Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae."
+      },
+      {
+        "id": 8,
+        "imageSrc": "/assets/blog3.jpg",
+        "date": "April 25, 2021",
+        "author": "Rizasgor",
+        "category": "Design",
+        "content": "Brooklyn Beta was the most important conferen best tristique",
+        "overview": "Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae. Curabitur lobortis justo ante, in varius leo congue id. Etiam a libero elementum, posuere est at, sodales justo. Proin nec venenatis metus. Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae."
+      },
+      {
+        "id": 9,
+        "imageSrc": "/assets/blog1.jpg",
+        "date": "April 25, 2021",
+        "author": "Rizasgor",
+        "category": "Design",
+        "content": "Brooklyn Beta was the most important conferen best tristique",
+        "overview": "Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae. Curabitur lobortis justo ante, in varius leo congue id. Etiam a libero elementum, posuere est at, sodales justo. Proin nec venenatis metus. Cras porttitor convallis ligula, at elementum erat mattis quis. In vitae vulputate tellus, sed laoreet est. Nam eget dolor non eros rutrum facilisis ut vel sapien. Aenean sed vehicula massa. Morbi imperdiet egestas ullamcorperet. Expo neque, congue nec nibh in, pellentesque fringilla risus. Suspendisse hendrerit et sapien ut pretium. Aenean nulla ipsum, facilisis eu porta non, rutrum sit amet nibh. Quisque id diam feugiat, pharetra arcu eget, bibendum tortor. Vivamus aliquam lacus id leo tristique sagittis. Pellentesque mattis diam metus, id commodo ex placerat vitae."
+      }
+    ],
+    "teams" : [
+      {
+        "id": 1,
+        "image": "/assets/event6.jpg",
+        "startTime":"09:00",
+        "endTime": "11:00",
+        "name": "Wait is Over! Stony Brook Captures Conference",
+        "author": "Riaz Sagar , Logichunt Inc.",
+        "overview":
+          "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.",
+        "location": " Hall 1, Building A , Golden Street , Southafrica"
+      },
+      {
+        "id": 2,
+        "image": "/assets/event23.jpg",
+        "startTime":"09:00",
+        "endTime": "11:00",
+        "name": "Wait is Over! Stony Brook Captures Conference",
+        "author": "Riaz Sagar , Logichunt Inc.",
+        "overview":
+          "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.",
+        "location": " Hall 1, Building A , Golden Street , Southafrica"
+      },
+      {
+        "id": 3,
+        "image": "/assets/event24.jpg",
+        "startTime":"09:00",
+        "endTime": "11:00",
+        "name": "Wait is Over! Stony Brook Captures Conference",
+        "author": "Riaz Sagar , Logichunt Inc.",
+        "overview":
+          "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.",
+        "location": " Hall 1, Building A , Golden Street , Southafrica"
+      },
+      {
+        "id": 4,
+        "image": "/assets/event25.jpg",
+        "startTime":"09:00",
+        "endTime": "11:00",
+        "name": "Wait is Over! Stony Brook Captures Conference",
+        "author": "Riaz Sagar , Logichunt Inc.",
+        "overview":
+          "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.",
+        "location": " Hall 1, Building A , Golden Street , Southafrica"
+      },
+      {
+        "id": 5,
+        "image": "/assets/event26.jpg",
+        "startTime":"09:00",
+        "endTime": "11:00",
+        "name": "Wait is Over! Stony Brook Captures Conference",
+        "author": "Riaz Sagar , Logichunt Inc.",
+        "overview":
+          "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.",
+        "location": " Hall 1, Building A , Golden Street , Southafrica"
+      },
+      {
+        "id": 6,
+        "image": "/assets/event27.jpg",
+        "startTime":"09:00",
+        "endTime": "11:00",
+        "name": "Wait is Over! Stony Brook Captures Conference",
+        "author": "Riaz Sagar , Logichunt Inc.",
+        "overview":
+          "Meh synth Schlitz, tempor duis single-origin coffee ea next level ethnic fingerstache fanny pack nostrud. Photo booth anim 8-bit hella, PBR 3 wolf moon beard Helvetica. Salvia esse flexitarian Truffaut synth art party deep v chillwave.",
+        "location": " Hall 1, Building A , Golden Street , Southafrica"
+      }
+    ],
+    "events" : [
+      {
+        "id": 1,
+        "imageUrl":"/assets/event6.jpg",
+        "name" : "Gozel ve bedheybet"
+      },
+      {
+        "id": 2,
+        "imageUrl":"/assets/event23.jpg",
+        "name" : "Bir zamanlar cikaqoda"
+      },
+      {
+        "id": 3,
+        "imageUrl":"/assets/event24.jpg",
+        "name" : "Mulen Ruj"
+      },
+      {
+        "id": 4,
+        "imageUrl":"/assets/event25.jpg",
+        "name" : "Sindirella"
+      },
+      {
+        "id": 5,
+        "imageUrl":"/assets/event26.jpg",
+        "name" : "Bremen musiqicileri"
+      },
+      {
+        "id": 6,
+        "imageUrl":"/assets/event27.jpg",
+        "name" : "Rapunzel"
+      }
+    ]
+  }
+  
