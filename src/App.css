@@ -38,6 +38,13 @@
     font-size: 20px;
   }
 }
+@media (min-width: 768px) {
+  .lgx-btn2 {
+    padding: 15px 39px;
+    font-size: 20px;
+  }
+}
+
 
 .lgx-btn:hover {
   color: #fff;
@@ -544,4 +551,9 @@ button {
     margin-bottom: -10px;
     margin-left: -6px
   }
+}
+
+.eventId {
+  position: relative;
+  top: -70px;
 }

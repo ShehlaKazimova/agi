@@ -7,6 +7,7 @@ import {
   Text,
   Textarea,
   VStack,
+  Image
 } from "@chakra-ui/react";
 import React from "react";
 import bgImage from "./path/to/your/image.jpg";
@@ -28,9 +29,12 @@ const MessageSection = () => {
         justifyContent="center"
         borderRadius="30px"
         mb='50px'
-        bgImage={'https://zestudio.az/assets/images/new/paperplane.webp'}
         bgRepeat={'no-repeat'}
       >
+
+        <Image
+          src="https://zestudio.az/assets/images/new/paperplane.webp" position={'absolute'} right='150px' />
+
         <Heading
           color="rgba(27, 39, 61, .95)"
           fontSize={{ base: "24px", sm: "30px", lg: "40px" }}

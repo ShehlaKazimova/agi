@@ -45,7 +45,6 @@ const Footer = () => {
           padding="10px 20px"
           height="55px"
           fontSize="14px"
-          border="1px rgba(255, 255, 255, .8)"
           _focus={{ bg: "white" }}
         />
         {/* <VStack
@@ -63,8 +62,8 @@ const Footer = () => {
             Subscribe
           </Text>
         </VStack> */}
-        <Link style={{width:'25%', fontSize:'18px'}} className="lgx-btn lgx-submit" to='#'>
-        <Text>Subscribe</Text>
+        <Link style={{ width: '24%', fontSize: '16px' }} className="lgx-btn lgx-btn2 lgx-submit" to='#'>
+          <Text>Subscribe</Text>
         </Link>
       </HStack>
       <Flex
