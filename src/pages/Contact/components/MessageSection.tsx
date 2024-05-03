@@ -9,6 +9,7 @@ import {
   VStack,
 } from "@chakra-ui/react";
 import React from "react";
+import bgImage from "./path/to/your/image.jpg";
 
 const MessageSection = () => {
   return (
@@ -17,7 +18,7 @@ const MessageSection = () => {
       display="flex"
       alignItems="center"
       justifyContent="center"
-      position="relative" backgroundImage={`url(${bgImage})`} backgroundSize="cover" backgroundPosition="center" minHeight="100vh"
+
     >
       <VStack
         p={{ lg: "100px 100px", md: "100px 50px", base: "80px 20px" }}
@@ -26,16 +27,9 @@ const MessageSection = () => {
         alignItems="center"
         justifyContent="center"
         borderRadius="30px"
-        position="absolute"
-        right="0"
-        bottom="0"
-        p={{ lg: "100px 100px", md: "100px 50px", base: "80px 20px" }}
-        boxShadow="3px 4px 6px 4px rgba(0, 0, 0, 0.5)"
-        w={{ lg: "80%", base: "90%" }}
-        alignItems="center"
-        justifyContent="center"
-        borderRadius="30px"
-        bg="white"
+        mb='50px'
+        bgImage={'https://zestudio.az/assets/images/new/paperplane.webp'}
+        bgRepeat={'no-repeat'}
       >
         <Heading
           color="rgba(27, 39, 61, .95)"

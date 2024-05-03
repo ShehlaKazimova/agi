@@ -75,7 +75,7 @@ const Footer = () => {
         gap="50px"
         padding="10px"
       >
-        <Image src="/assets/agi.png" w={"250px"} />
+        <Image src="/assets/agi.png" w={"70px"} />
         <VStack alignItems="flex-start">
           <Text mt={0} fontWeight={600}>
             Venue Location

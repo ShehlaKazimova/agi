@@ -55,7 +55,7 @@ const EventId = () => {
       <Flex
         bgRepeat="no-repeat"
         bgAttachment="fixed"
-        bgImage="https://www.idrismikayil.com/img/a6.jpg"
+        bgImage="/assets/speakers-bg-black.jpg"
         alignItems="center" justifyContent="center">
         <VStack
           w="90%"
